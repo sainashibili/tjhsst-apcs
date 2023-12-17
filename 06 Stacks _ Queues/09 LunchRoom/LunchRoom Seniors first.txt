@@ -1,0 +1,5 @@
+Customer		Total		Longest		Average Wait
+Senior			58			15			5.758620689655173
+Junior			112			34			-1.8660714285714286
+Sophomore			165			78			4.733333333333333
+Freshman			223			432			-27.40358744394619

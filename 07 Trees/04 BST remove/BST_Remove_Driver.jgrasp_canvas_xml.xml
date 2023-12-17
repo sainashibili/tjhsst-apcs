@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Canvas xmlns="http://www.jgrasp.org">
+  <Language>Java</Language>
+  <ShowTypes>false</ShowTypes>
+  <Version>2</Version>
+  <Grid>
+    <Snap>true</Snap>
+    <Show>false</Show>
+  </Grid>
+  <Scope id="0">
+    <Name>remove</Name>
+    <Signature>(LTreeNode;Ljava/lang/String;)LTreeNode;</Signature>
+    <DeclaringType>BST</DeclaringType>
+    <Depth>2</Depth>
+  </Scope>
+  <Frame>
+    <Bounds>
+      <AutoSize>true</AutoSize>
+      <X>380</X>
+      <Y>70</Y>
+      <W>219</W>
+      <H>420</H>
+    </Bounds>
+    <Viewer>
+      <ScopeID>0</ScopeID>
+      <Expression>`local TreeNode` c</Expression>
+      <ViewerClass>jgrasp_viewers.java__lang__Object_LinkedView</ViewerClass>
+      <ViewerData>
+        <ViewData>
+          <Embedded>false</Embedded>
+        </ViewData>
+      </ViewerData>
+    </Viewer>
+  </Frame>
+  <Frame>
+    <Bounds>
+      <AutoSize>true</AutoSize>
+      <X>10</X>
+      <Y>60</Y>
+      <W>309</W>
+      <H>376</H>
+    </Bounds>
+    <Viewer>
+      <ScopeID>0</ScopeID>
+      <Expression>`local TreeNode` parent</Expression>
+      <ViewerClass>jgrasp_viewers.java__lang__Object_LinkedView</ViewerClass>
+      <ViewerData>
+        <ViewData>
+          <Embedded>false</Embedded>
+        </ViewData>
+      </ViewerData>
+    </Viewer>
+  </Frame>
+  <Size>
+    <W>683</W>
+    <H>384</H>
+  </Size>
+  <ESize>
+    <W>683</W>
+    <H>384</H>
+  </ESize>
+</Canvas>
