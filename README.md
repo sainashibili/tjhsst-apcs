@@ -1,2 +1,3 @@
 # tjhsst-apcs
- Projects from TJHSST APCS & data structures course
+
+Java Projects include different data structure and java learning topics.
